@@ -4,5 +4,5 @@ from __future__ import unicode_literals
 from django.apps import AppConfig
 
 
-class TimeDisplayConfig(AppConfig):
-    name = 'time_display'
+class RandomWordsConfig(AppConfig):
+    name = 'random_words'
